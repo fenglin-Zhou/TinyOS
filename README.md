@@ -7,7 +7,7 @@ TinyOS 是一些简版的 OS 实现，下面列出的是主要要实现的功能
 - 3	    [Memory-Segmentation, Global Descriptor Table](./doc/3/3.md)
 - 4	    [Hardware-Communication / Ports](./doc/4/4.md)
 - 5	    [Interrupts](./doc/5/5.md)
-- 6	    [Keyboard](./doc/6.6.md)
+- 6	    [Keyboard](./doc/6/6.md)
 - 7	    Mouse
 - 8	    Abstractions for Drivers
 - 9	    Tidying Up
@@ -40,7 +40,13 @@ make命令
 
 ##### 参考资料
 
+原作者网站 https://github.com/AlgorithMan-de/wyoos
+
 Orange'S:一个操作系统的实现 https://book.douban.com/subject/3735649/
+
 现代操作系统 https://book.douban.com/subject/3852290/
+
 TCP/IP详解 卷1：协议 https://book.douban.com/subject/1088054/
+
 TCP/IP详解 卷2：实现 https://book.douban.com/subject/1087767/
+
