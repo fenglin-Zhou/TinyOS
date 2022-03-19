@@ -1,4 +1,5 @@
 # TinyOS
+之前放在gitee，gitee不常使用，放在github来。
 
 TinyOS 是一些简版的 OS 实现，下面列出的是主要要实现的功能。
 
